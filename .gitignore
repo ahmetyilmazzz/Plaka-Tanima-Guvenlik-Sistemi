@@ -8,7 +8,6 @@ venv/
 
 # Dataset and logs
 dataset/
-logs/
 
 # Outputs
 # outputs/
