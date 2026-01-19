@@ -1,3 +1,9 @@
+Bu projeyi çalışan haliyle görmek ister misiniz? Canlı demoya göz atın!
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plaka-tanima-guvenlik-sistemi.streamlit.app)
+
+---
+
 ![Sertifika](images/sertifika.png)
 
 # Araç Plaka Tanıma ve Güvenlik Sistemi
@@ -10,7 +16,7 @@ Bu sistem, modern bilgisayarlı görü ve derin öğrenme tekniklerini kullanara
 
 1.  **Araç Tipi Tespiti:** Görüntüdeki aracın türünü (otomobil, otobüs, kamyonet vb.) belirler.
 2.  **Plaka Tespiti ve Okuma (OCR):** Araç üzerindeki plakayı tespit eder ve metnini okur.
-3.  **Detaylı Araç Analizi (VLM):** Aracın rengi, markası ve durumu gibi görsel detayları analiz etmek için BLIP modeli kullanılır.
+3.  **Detaylı Araç Analizi (VLM)::** Aracın rengi, markası ve durumu gibi görsel detayları analiz etmek için BLIP modeli kullanılır.
 4.  **Yetkilendirme ve Kayıt:** Okunan plakayı veritabanındaki izinli plakalar listesiyle karşılaştırarak geçişe onay veya ret kararı verir. Bütün geçiş denemeleri veritabanına kaydedilir.
 
 ## Proje Yapısı
