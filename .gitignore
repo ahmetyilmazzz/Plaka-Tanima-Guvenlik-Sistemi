@@ -1,0 +1,14 @@
+# IDE and cache files
+.idea/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset and logs
+dataset/
+logs/
+
+# Outputs
+# outputs/

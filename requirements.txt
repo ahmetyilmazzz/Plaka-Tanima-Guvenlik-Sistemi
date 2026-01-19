@@ -1,0 +1,15 @@
+ultralytics
+easyocr
+paddleocr
+pytesseract
+torch
+torchvision
+transformers
+pillow
+opencv-python
+icrawler
+numpy
+kaggle
+pyyaml
+matplotlib
+streamlit
