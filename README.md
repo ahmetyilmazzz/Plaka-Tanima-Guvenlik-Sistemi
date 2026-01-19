@@ -1,4 +1,4 @@
-Bu projeyi çalışan haliyle görmek ister misiniz? Canlı demoya göz atın!
+# Canlı Demo
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plaka-tanima-guvenlik-sistemi.streamlit.app)
 
