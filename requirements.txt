@@ -6,7 +6,7 @@ torch
 torchvision
 transformers
 pillow
-opencv-python
+opencv-python-headless
 icrawler
 numpy
 kaggle
@@ -14,4 +14,4 @@ pyyaml
 matplotlib
 streamlit
 
-opencv-python-headless
+
