@@ -13,3 +13,5 @@ kaggle
 pyyaml
 matplotlib
 streamlit
+
+opencv-python-headless
